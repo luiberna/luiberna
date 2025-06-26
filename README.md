@@ -11,8 +11,7 @@
 
 - 🎓 I'm currently a Computer Engineering student at **ISCTE**  
 - 🌱 Simultaneously enrolled at **42 Lisboa**, mastering the art of low-level and systems programming  
-- 🔧 Passionate about algorithms, operating systems, and building things from scratch  
-- 🧠 Obsessed with **memory management**, **concurrency**, and understanding how computers *really* work  
+- 🔧 Passionate about algorithms, operating systems, and building things from scratch 
 - 📍 Based in Lisbon, Portugal 🇵🇹
 
 ---
