@@ -62,7 +62,7 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/](https://www.linkedin.com/in/lu%C3%ADs-pacheco-46768a259/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/](https://www.linkedin.com/in/lu%C3%ADs-pacheco-46768a259/)
 [![42 Profile](https://img.shields.io/badge/42%20Profile-333?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
