@@ -2,7 +2,7 @@
 
 [![42 Lisboa Badge](https://img.shields.io/badge/42-Lisboa-blue?style=for-the-badge&logo=42&logoColor=white)](https://42lisboa.com/)
 [![ISCTE Badge](https://img.shields.io/badge/ISCTE-Instituto%20Universitário%20de%20Lisboa-blueviolet?style=for-the-badge)](https://www.iscte-iul.pt/)
-[![Languages Badge](https://img.shields.io/badge/C/C++-Primary-orange?style=for-the-badge&logo=c&logoColor=white)]()
+[![Languages Badge](https://img.shields.io/badge/C/C++-Primary-orange?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Projects Badge](https://img.shields.io/badge/🚀-42%20&%20ISCTE%20Projects-informational?style=for-the-badge)]()
 
 ---
@@ -25,6 +25,7 @@
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-3776AB?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
