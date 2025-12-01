@@ -48,7 +48,7 @@
 | **minishell** | Bash-like shell | `C`, `Processes`, `Pipes`, `Signals` |
 | **Philosophers** | Dining philosophers concurrency problem | `C`, `Threads`, `Mutexes` |
 | **Cub3D** | First-person 3D game engine using raycasting | `C`, `Graphics`, `Math` |
-| **IRC / NetPractice** | Network-based client-server communication | `C`, `Sockets`, `Protocols` |
+| **IRC / NetPractice** | Network-based client-server communication | `C++`, `Sockets`, `Protocols` |
 
 ---
 
